@@ -1,0 +1,27 @@
+{
+  "providerName": "KMC Kurdish Channel",
+  "language": "en",
+  "lastUpdated": "2025-05-19T00:00:00Z",
+  "playlists": [
+    {
+      "name": "Live Streaming",
+      "itemIds": ["live1"]
+    }
+  ],
+  "movies": [
+    {
+      "id": "live1",
+      "title": "KMC Live",
+      "content": {
+        "dateAdded": "2025-05-19T00:00:00Z",
+        "videos": [
+          {
+            "url": "http://192.168.1.195/hls/ch1.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ]
+}
+
